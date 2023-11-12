@@ -2,7 +2,7 @@
 Data Cleaning Nashville Housing
 */
 
-----Original Data
+----Original Data for back up purpose
 
 select * 
 from DataCleaning.dbo.OgNashvilleHousing
